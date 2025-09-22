@@ -1,40 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Career Catalyst – AI-Powered Job Application Suite
 
-## Getting Started
+Career Catalyst is a smart career assistant that helps job seekers apply with confidence.
+It combines an AI Resume Builder, a Mock Interview Platform, and an Intelligent Cover Letter Generator into one seamless experience.
 
-First, run the development server:
+Why Career Catalyst?
 
-```bash
+Traditional job applications are slow and repetitive. Career Catalyst uses AI to:
+
+Build resumes tailored to your profile in seconds
+
+Generate job-specific cover letters instantly
+
+Simulate interviews with AI-driven questions and performance stats
+
+Keep you updated with weekly industry insights
+
+Tech Highlights
+
+Next.js + Shadcn UI → Fast, elegant, and responsive frontend
+
+Tailwind CSS → Clean, modern UI design
+
+NextAuth.js → Secure authentication & onboarding
+
+Prisma + PostgreSQL → Scalable, reliable data handling
+
+Gemini AI API → Powering resume, interview, and cover letter generation
+
+Inngest → Cron jobs for weekly insights
+
+Vercel → Deployment
+
+Features
+
+Resume Builder → Generate polished resumes (Markdown/PDF)
+
+Mock Interviews → Practice with AI questions & feedback
+
+Cover Letters → Create tailored job letters in minutes
+
+Performance Dashboard → Track interview & quiz results
+
+Weekly Insights → AI-curated career & industry updates
+
+Quick Start
+# Clone the repo
+git clone https://github.com/your-username/career-catalyst.git
+cd career-catalyst
+
+# Install dependencies
+npm install
+
+# Add environment variables in .env.local
+DATABASE_URL=your_postgres_url
+NEXTAUTH_SECRET=your_secret_key
+GEMINI_API_KEY=your_gemini_api_key
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Roadmap
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+AI job-matching recommendations
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Video-based mock interviews
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Next-StepAI
-# Next-StepAI
-# NextStep-AI
-# NextStep-AI
+Advanced analytics for career growth
