@@ -1,9 +1,9 @@
-Career Catalyst – AI-Powered Job Application Suite
+## Career Catalyst – AI-Powered Job Application Suite
 
 Career Catalyst is a smart career assistant that helps job seekers apply with confidence.
 It combines an AI Resume Builder, a Mock Interview Platform, and an Intelligent Cover Letter Generator into one seamless experience.
 
-Why Career Catalyst?
+## Why Career Catalyst?
 
 Traditional job applications are slow and repetitive. Career Catalyst uses AI to:
 
@@ -15,7 +15,7 @@ Simulate interviews with AI-driven questions and performance stats
 
 Keep you updated with weekly industry insights
 
-Tech Highlights
+## Tech Highlights
 
 Next.js + Shadcn UI → Fast, elegant, and responsive frontend
 
@@ -31,7 +31,7 @@ Inngest → Cron jobs for weekly insights
 
 Vercel → Deployment
 
-Features
+## Features
 
 Resume Builder → Generate polished resumes (Markdown/PDF)
 
@@ -43,7 +43,7 @@ Performance Dashboard → Track interview & quiz results
 
 Weekly Insights → AI-curated career & industry updates
 
-Quick Start
+## Quick Start
 # Clone the repo
 git clone https://github.com/your-username/career-catalyst.git
 cd career-catalyst
