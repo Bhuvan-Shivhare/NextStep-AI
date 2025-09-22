@@ -1,11 +1,11 @@
-## Career Catalyst – AI-Powered Job Application Suite
+## NextStepAI – AI-Powered Job Application Suite
 
-Career Catalyst is a smart career assistant that helps job seekers apply with confidence.
+NextStepAI is a smart career assistant that helps job seekers apply with confidence.
 It combines an AI Resume Builder, a Mock Interview Platform, and an Intelligent Cover Letter Generator into one seamless experience.
 
-## Why Career Catalyst?
+## Why NextStepAI?
 
-Traditional job applications are slow and repetitive. Career Catalyst uses AI to:
+Traditional job applications are slow and repetitive. NextStepAI uses AI to:
 
 Build resumes tailored to your profile in seconds
 
@@ -45,8 +45,8 @@ Weekly Insights → AI-curated career & industry updates
 
 ## Quick Start
 # Clone the repo
-git clone https://github.com/your-username/career-catalyst.git
-cd career-catalyst
+git clone https://github.com/your-username/NextStepAI.git
+cd NextStepAI
 
 # Install dependencies
 npm install
