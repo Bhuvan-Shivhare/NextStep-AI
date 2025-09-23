@@ -4,7 +4,6 @@ import { Mail, Github, Linkedin } from "lucide-react"
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
-
   return (
     <footer className="bg-muted/50 py-12 border-t border-border/40">
       <div className="container mx-auto px-4">
